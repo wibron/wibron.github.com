@@ -1,0 +1,11 @@
+url: http://patrikwibron.se
+title: Patrik Wibron
+description: Bloggen för frontendutvecklaren Patrik Wibron. Fokus på användarvänlighet och prestanda.
+
+permalink: /post/:title.html
+
+future: false
+auto: true
+server: true
+
+exclude: ["README.md", "config.rb"]

@@ -1,0 +1,595 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prev",
+				"prevImage"
+			],
+			[
+				"nex",
+				"nextImage"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"list-style",
+				"list-style-position	zen:css_properties"
+			],
+			[
+				"word",
+				"word-wrap	zen:css_properties"
+			],
+			[
+				"link",
+				"link	link - stylesheet"
+			],
+			[
+				"output",
+				"output_style"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "scss/_typography.scss",
+			"settings":
+			{
+				"buffer_size": 1996,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scss/_layout.scss",
+			"settings":
+			{
+				"buffer_size": 3712,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 57 files for \".main\"\n\n/Applications/MAMP/htdocs/blogdesign/_site/css/main.css:\n    1: @charset \"UTF-8\";/* normalize.css 2012-03-11T12:53 UTC - http://github.com/necolas/normalize.css */article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary{display:block}audio,canvas,video{display:inline-block;*display:inline;*zoom:1}audio:not([controls]){display:none;height:0}[hidden]{display:none}figure{margin:0}html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}html,button,input,select,textarea{font-family:sans-serif}body{margin:0}a:focus{outline:thin dotted}a:hover,a:active{outline:0}h1{font-size:2em;margin:0.67em 0}h2{font-size:1.5em;margin:0.83em 0}h3{font-size:1.17em;margin:1em 0}h4{font-size:1em;margin:1.33em 0}h5{font-size:0.83em;margin:1.67em 0}h6{font-size:0.75em;margin:2.33em 0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}blockquote{margin:1em 40px}dfn{font-style:italic}mark{background:#ff0;color:#000}p,pre{margin:1em 0}pre,code,kbd,samp{font-family:monospace, serif;_font-family:'courier new', monospace;font-size:1em}pre{white-space:pre;white-space:pre-wrap;word-wrap:break-word}q{quotes:none}q:before,q:after{content:'';content:none}small{font-size:75%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}dl,menu,ol,ul{margin:1em 0}dd{margin:0 0 0 40px}menu,ol,ul{padding:0 0 0 40px}nav ul,nav ol{list-style:none;list-style-image:none}img{border:0;-ms-interpolation-mode:bicubic}svg:not(:root){overflow:hidden}table{border-collapse:collapse;border-spacing:0}form{margin:0}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em}legend{border:0;padding:0;white-space:normal;*margin-left:-7px}button,input,select,textarea{font-size:100%;margin:0;vertical-align:baseline;*vertical-align:middle}button,input{line-height:normal}button,input[type=\"button\"],input[type=\"reset\"],input[type=\"submit\"]{cursor:pointer;-webkit-appearance:button;*overflow:visible}button[disabled],input[disabled]{cursor:default}input[type=\"checkbox\"],input[type=\"radio\"]{box-sizing:border-box;padding:0;*height:13px;*width:13px}input[type=\"search\"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type=\"search\"]::-webkit-search-decoration,input[type=\"search\"]::-webkit-search-cancel-button{-webkit-appearance:none}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}textarea{overflow:auto;vertical-align:top}.leftaligned{float:left}.rightaligned{float:right}body{font-size:16px;line-height:1.6;text-shadow:0 1px 0 rgba(255,255,255,0.6)}::selection{background:#31b8cc;color:#fff;text-shadow:none}h1,h2,h3,h4,h5,p,li{font-family:\"adelle\", sans-serif;font-weight:100}h1,h2,h3,h4,h5{text-rendering:optimizeLegibility;line-height:1}p{line-height:1.8;font-family:'PT Sans', sans-serif}a{color:#333;text-decoration:none;border-bottom:1px solid #31b8cc;font-weight:600;-webkit-transition:background 0.15s ease-out,color 0.2s ease-out;-moz-transition:background 0.15s ease-out,color 0.2s ease-out;transition:background 0.15s ease-out,color 0.2s ease-out}a:hover{background:#31b8cc;color:#fff;text-shadow:none}h1{font-size:3.6em;letter-spacing:-1px;margin:0 0 .4em 0}h1 a{font-weight:inherit;border:none}h1 a:hover{background:none;color:#31b8cc}h2{font-size:2em;margin:0 0 .5em 0;line-height:1.4}h2 a{font-weight:inherit}h3 a{font-weight:inherit}.post h1,.post h2{word-wrap:normal}.post h1{font-size:2.5em}@media screen and (max-width: 480px){.post h1{font-size:2.1em}}@media screen and (max-width: 480px){.post h2{font-size:1.6em}}h3{font-size:1.4em;margin:.8em 0 .4em 0}.top h1{color:#4d4d4d;margin-bottom:.2em}.top h2{color:gray}.top h1,.top h2{-webkit-transition:font-size 0.4s ease;-moz-transition:font-size 0.4s ease;transition:font-size 0.4s ease}@media screen and (max-width: 640px){.top h1{font-size:2.6em}.top h2{font-size:1.3em}}.sitefooter a:hover{color:#fff}.sitefooter li a{border-bottom:none}body{background:#f5f5f5;border-top:5px solid #4d4d4d;color:#333;min-width:320px}img,object,embed,video{max-width:100%}hr{display:block;border:none;border-bottom:1px solid #ccc;margin-bottom:1em}.top,.main{margin:4% auto 0 auto;width:80%;max-width:720px}.top{overflow:hidden;*zoom:1}.top hgroup{width:60%;float:left}.top nav{width:40%;float:right}.top ul{margin:0;padding:0;text-align:right}.top li{margin-left:.5em;display:-moz-inline-stack;display:inline-block;vertical-align:middle;*vertical-align:auto;zoom:1;*display:inline}@media screen and (max-width: 480px){.top hgroup{width:100%;float:none}.top nav{overflow:hidden;*zoom:1;width:100%;float:none}.top li,.top a{display:block;margin:0}.top a{text-indent:.5em}.top ul{line-height:2;text-align:left}}.post{position:relative;margin-bottom:2.5em}.post:hover time{filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=100);opacity:1}.post time{position:absolute;left:-80px;top:0;background:#31b8cc;color:#fff;text-shadow:none;height:60px;width:60px;text-align:center;line-height:60px;filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=50);opacity:0.5;display:-moz-inline-stack;display:inline-block;vertical-align:middle;*vertical-align:auto;zoom:1;*display:inline;-webkit-border-radius:100%;-moz-border-radius:100%;-ms-border-radius:100%;border-radius:100%;-webkit-box-shadow:inset 0 0 20px rgba(0,0,0,0.05);-moz-box-shadow:inset 0 0 20px rgba(0,0,0,0.05);box-shadow:inset 0 0 20px rgba(0,0,0,0.05);-webkit-transition:left 0.4s ease,opacity 0.3s ease-out;-moz-transition:left 0.4s ease,opacity 0.3s ease-out;transition:left 0.4s ease,opacity 0.3s ease-out}@media screen and (max-width: 640px){.post h2{margin-bottom:.5em}.post time{width:auto;height:auto;left:-50px;top:20px;line-height:1;padding:2px 4px;-webkit-transform:rotate(-90deg);-moz-transform:rotate(-90deg);-ms-transform:rotate(-90deg);transform:rotate(-90deg);-webkit-border-radius:3px;-moz-border-radius:3px;-ms-border-radius:3px;border-radius:3px;filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=100);opacity:1}}.post footer{margin-top:.5em;text-align:right}.fluid-width-video-wrapper{-webkit-box-shadow:0 10px 25px rgba(0,0,0,0.25);-moz-box-shadow:0 10px 25px rgba(0,0,0,0.25);box-shadow:0 10px 25px rgba(0,0,0,0.25)}@media screen and (max-width: 480px){.fluid-width-video-wrapper{-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none}}.pager{text-align:center}.rolelist{overflow:hidden;*zoom:1;padding:0;list-style-position:inside}.rolelist li{width:50%;float:left}.sitefooter{border-top:4px solid rgba(0,0,0,0.3);background:url(\"img/footerbg.png\") repeat;margin-top:60px;padding:1.5em 0 3em 0;-webkit-box-shadow:inset 0 0 80px rgba(0,0,0,0.5);-moz-box-shadow:inset 0 0 80px rgba(0,0,0,0.5);box-shadow:inset 0 0 80px rgba(0,0,0,0.5)}.sitefooter div{width:92%;margin:0 auto;max-width:720px;overflow:hidden;*zoom:1}.sitefooter p{margin:0}.sitefooter ul{margin:0;padding:0;text-align:right}.sitefooter p,.sitefooter a{font-size:.9em;color:#b1b1b1;text-shadow:0 -1px 0 #333}.sitefooter li{list-style:none;margin-right:10px;display:-moz-inline-stack;display:inline-block;vertical-align:middle;*vertical-align:auto;zoom:1;*display:inline}.sitefooter li a:hover{background:none}.sitefooter .leftaligned{float:left;width:65%}.sitefooter .rightaligned{float:right;width:35%}@media screen and (max-width: 480px){.sitefooter .rightaligned,.sitefooter .leftaligned{float:none;width:auto}.sitefooter ul{text-align:left}}@font-face{font-family:'icons';src:url(\"../font/icons.eot\");src:url(\"../font/icons.eot?#iefix\") format(\"embedded-opentype\"),url(\"../font/icons.woff\") format(\"woff\"),url(\"../font/icons.ttf\") format(\"truetype\"),url(\"../font/icons.svg#icons\") format(\"svg\");font-weight:normal;font-style:normal}[class^=\"icon-\"]:before,[class*=\" icon-\"]:before{font-family:'icons';font-style:normal;font-weight:normal;speak:none;display:inline-block;text-decoration:inherit;width:1em;margin-right:0.2em;text-align:center;opacity:0.7;line-height:1em;font-size:120%}.icon-dot-2:before{content:'\\e78c'}.icon-twitter-bird:before{content:'\\f303'}.icon-github-text:before{content:'\\f307'}\n    2  \n\n/Applications/MAMP/htdocs/blogdesign/css/main.css:\n    1: @charset \"UTF-8\";/* normalize.css 2012-03-11T12:53 UTC - http://github.com/necolas/normalize.css */article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary{display:block}audio,canvas,video{display:inline-block;*display:inline;*zoom:1}audio:not([controls]){display:none;height:0}[hidden]{display:none}figure{margin:0}html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}html,button,input,select,textarea{font-family:sans-serif}body{margin:0}a:focus{outline:thin dotted}a:hover,a:active{outline:0}h1{font-size:2em;margin:0.67em 0}h2{font-size:1.5em;margin:0.83em 0}h3{font-size:1.17em;margin:1em 0}h4{font-size:1em;margin:1.33em 0}h5{font-size:0.83em;margin:1.67em 0}h6{font-size:0.75em;margin:2.33em 0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}blockquote{margin:1em 40px}dfn{font-style:italic}mark{background:#ff0;color:#000}p,pre{margin:1em 0}pre,code,kbd,samp{font-family:monospace, serif;_font-family:'courier new', monospace;font-size:1em}pre{white-space:pre;white-space:pre-wrap;word-wrap:break-word}q{quotes:none}q:before,q:after{content:'';content:none}small{font-size:75%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}dl,menu,ol,ul{margin:1em 0}dd{margin:0 0 0 40px}menu,ol,ul{padding:0 0 0 40px}nav ul,nav ol{list-style:none;list-style-image:none}img{border:0;-ms-interpolation-mode:bicubic}svg:not(:root){overflow:hidden}table{border-collapse:collapse;border-spacing:0}form{margin:0}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em}legend{border:0;padding:0;white-space:normal;*margin-left:-7px}button,input,select,textarea{font-size:100%;margin:0;vertical-align:baseline;*vertical-align:middle}button,input{line-height:normal}button,input[type=\"button\"],input[type=\"reset\"],input[type=\"submit\"]{cursor:pointer;-webkit-appearance:button;*overflow:visible}button[disabled],input[disabled]{cursor:default}input[type=\"checkbox\"],input[type=\"radio\"]{box-sizing:border-box;padding:0;*height:13px;*width:13px}input[type=\"search\"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type=\"search\"]::-webkit-search-decoration,input[type=\"search\"]::-webkit-search-cancel-button{-webkit-appearance:none}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}textarea{overflow:auto;vertical-align:top}.leftaligned{float:left}.rightaligned{float:right}body{font-size:16px;line-height:1.6;text-shadow:0 1px 0 rgba(255,255,255,0.6)}::selection{background:#31b8cc;color:#fff;text-shadow:none}h1,h2,h3,h4,h5,p,li{font-family:\"adelle\", sans-serif;font-weight:100}h1,h2,h3,h4,h5{text-rendering:optimizeLegibility;line-height:1}p{line-height:1.8;font-family:'PT Sans', sans-serif}a{color:#333;text-decoration:none;border-bottom:1px solid #31b8cc;font-weight:600;-webkit-transition:background 0.15s ease-out,color 0.2s ease-out;-moz-transition:background 0.15s ease-out,color 0.2s ease-out;transition:background 0.15s ease-out,color 0.2s ease-out}a:hover{background:#31b8cc;color:#fff;text-shadow:none}h1{font-size:3.6em;letter-spacing:-1px;margin:0 0 .4em 0}h1 a{font-weight:inherit;border:none}h1 a:hover{background:none;color:#31b8cc}h2{font-size:2em;margin:0 0 .5em 0;line-height:1.4}h2 a{font-weight:inherit}h3 a{font-weight:inherit}.post h1,.post h2{word-wrap:normal}.post h1{font-size:2.5em}@media screen and (max-width: 480px){.post h1{font-size:2.1em}}@media screen and (max-width: 480px){.post h2{font-size:1.6em}}h3{font-size:1.4em;margin:.8em 0 .4em 0}.top h1{color:#4d4d4d;margin-bottom:.2em}.top h2{color:gray}.top h1,.top h2{-webkit-transition:font-size 0.4s ease;-moz-transition:font-size 0.4s ease;transition:font-size 0.4s ease}@media screen and (max-width: 640px){.top h1{font-size:2.6em}.top h2{font-size:1.3em}}.sitefooter a:hover{color:#fff}.sitefooter li a{border-bottom:none}body{background:#f5f5f5;border-top:5px solid #4d4d4d;color:#333;min-width:320px}img,object,embed,video{max-width:100%}hr{display:block;border:none;border-bottom:1px solid #ccc;margin-bottom:1em}.top,.main{margin:4% auto 0 auto;width:80%;max-width:720px}.top{overflow:hidden;*zoom:1}.top hgroup{width:60%;float:left}.top nav{width:40%;float:right}.top ul{margin:0;padding:0;text-align:right}.top li{margin-left:.5em;display:-moz-inline-stack;display:inline-block;vertical-align:middle;*vertical-align:auto;zoom:1;*display:inline}@media screen and (max-width: 480px){.top hgroup{width:100%;float:none}.top nav{overflow:hidden;*zoom:1;width:100%;float:none}.top li,.top a{display:block;margin:0}.top a{text-indent:.5em}.top ul{line-height:2;text-align:left}}.post{position:relative;margin-bottom:2.5em}.post:hover time{filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=100);opacity:1}.post time{position:absolute;left:-80px;top:0;background:#31b8cc;color:#fff;text-shadow:none;height:60px;width:60px;text-align:center;line-height:60px;filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=50);opacity:0.5;display:-moz-inline-stack;display:inline-block;vertical-align:middle;*vertical-align:auto;zoom:1;*display:inline;-webkit-border-radius:100%;-moz-border-radius:100%;-ms-border-radius:100%;border-radius:100%;-webkit-box-shadow:inset 0 0 20px rgba(0,0,0,0.05);-moz-box-shadow:inset 0 0 20px rgba(0,0,0,0.05);box-shadow:inset 0 0 20px rgba(0,0,0,0.05);-webkit-transition:left 0.4s ease,opacity 0.3s ease-out;-moz-transition:left 0.4s ease,opacity 0.3s ease-out;transition:left 0.4s ease,opacity 0.3s ease-out}@media screen and (max-width: 640px){.post h2{margin-bottom:.5em}.post time{width:auto;height:auto;left:-50px;top:20px;line-height:1;padding:2px 4px;-webkit-transform:rotate(-90deg);-moz-transform:rotate(-90deg);-ms-transform:rotate(-90deg);transform:rotate(-90deg);-webkit-border-radius:3px;-moz-border-radius:3px;-ms-border-radius:3px;border-radius:3px;filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=100);opacity:1}}.post footer{margin-top:.5em;text-align:right}.fluid-width-video-wrapper{-webkit-box-shadow:0 10px 25px rgba(0,0,0,0.25);-moz-box-shadow:0 10px 25px rgba(0,0,0,0.25);box-shadow:0 10px 25px rgba(0,0,0,0.25)}@media screen and (max-width: 480px){.fluid-width-video-wrapper{-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none}}.pager{text-align:center}.rolelist{overflow:hidden;*zoom:1;padding:0;list-style-position:inside}.rolelist li{width:50%;float:left}.sitefooter{border-top:4px solid rgba(0,0,0,0.3);background:url(\"img/footerbg.png\") repeat;margin-top:60px;padding:1.5em 0 3em 0;-webkit-box-shadow:inset 0 0 80px rgba(0,0,0,0.5);-moz-box-shadow:inset 0 0 80px rgba(0,0,0,0.5);box-shadow:inset 0 0 80px rgba(0,0,0,0.5)}.sitefooter div{width:92%;margin:0 auto;max-width:720px;overflow:hidden;*zoom:1}.sitefooter p{margin:0}.sitefooter ul{margin:0;padding:0;text-align:right}.sitefooter p,.sitefooter a{font-size:.9em;color:#b1b1b1;text-shadow:0 -1px 0 #333}.sitefooter li{list-style:none;margin-right:10px;display:-moz-inline-stack;display:inline-block;vertical-align:middle;*vertical-align:auto;zoom:1;*display:inline}.sitefooter li a:hover{background:none}.sitefooter .leftaligned{float:left;width:65%}.sitefooter .rightaligned{float:right;width:35%}@media screen and (max-width: 480px){.sitefooter .rightaligned,.sitefooter .leftaligned{float:none;width:auto}.sitefooter ul{text-align:left}}@font-face{font-family:'icons';src:url(\"../font/icons.eot\");src:url(\"../font/icons.eot?#iefix\") format(\"embedded-opentype\"),url(\"../font/icons.woff\") format(\"woff\"),url(\"../font/icons.ttf\") format(\"truetype\"),url(\"../font/icons.svg#icons\") format(\"svg\");font-weight:normal;font-style:normal}[class^=\"icon-\"]:before,[class*=\" icon-\"]:before{font-family:'icons';font-style:normal;font-weight:normal;speak:none;display:inline-block;text-decoration:inherit;width:1em;margin-right:0.2em;text-align:center;opacity:0.7;line-height:1em;font-size:120%}.icon-dot-2:before{content:'\\e78c'}.icon-twitter-bird:before{content:'\\f303'}.icon-github-text:before{content:'\\f307'}\n    2  \n\n/Applications/MAMP/htdocs/blogdesign/scss/_layout.scss:\n   17  }\n   18  \n   19: .top, .main {\n   20      margin: 4% auto 0 auto;\n   21      width: 80%;\n\n3 matches across 3 files\n",
+			"settings":
+			{
+				"buffer_size": 16416,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 2491,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2012-08-22-bloggpremiar-med-jekyll.md",
+			"settings":
+			{
+				"buffer_size": 843,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scss/_base.scss",
+			"settings":
+			{
+				"buffer_size": 400,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 49.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"gist priv",
+				"Gist: Create Private Gist"
+			],
+			[
+				"set syn php",
+				"Set Syntax: PHP"
+			],
+			[
+				"themr dark",
+				"Themr: Soda Dark"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"themr light",
+				"Themr: Soda Light"
+			],
+			[
+				"themr lig",
+				"Themr: Soda Light"
+			],
+			[
+				"themr li",
+				"Themr: Soda Light"
+			],
+			[
+				"themr ",
+				"Themr: Soda Dark"
+			],
+			[
+				"set syn mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"themr",
+				"Themr: Soda Dark"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/blogdesign/about.html",
+		"/Applications/MAMP/htdocs/blogdesign/_posts/2012-08-21-sublime-text.md",
+		"/Applications/MAMP/htdocs/blogdesign/_site/post/bloggpremiar-med-jekyll.html",
+		"/Applications/MAMP/htdocs/blogdesign/scss/_icons.scss",
+		"/Users/patrik/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/patrik/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/js-gallery/js-gallery.js",
+		"/Applications/MAMP/htdocs/js-gallery/index.html",
+		"/Applications/MAMP/htdocs/blogdesign/_site/css/main.css",
+		"/Users/patrik/Downloads/CSS_Photo_Gallery_extremestudio.ro/photo_gallery_by_extremestudio.ro.html",
+		"/Applications/MAMP/htdocs/js-gallery/hund.jpg",
+		"/Applications/MAMP/htdocs/jquery-gallery/index.html",
+		"/Applications/MAMP/htdocs/jquery-gallery/js-gallery.js",
+		"/Applications/MAMP/htdocs/jquery-gallery/jquery-simple-gallery.js",
+		"/Applications/MAMP/htdocs/jquery-gallery/jquery-pw-gallery.js",
+		"/Applications/MAMP/htdocs/blogdesign/rolemodels.html",
+		"/Applications/MAMP/htdocs/blogdesign/scss/_layout.scss",
+		"/Applications/MAMP/htdocs/blogdesign/scss/_typography.scss",
+		"/Applications/MAMP/htdocs/blogdesign/404.html",
+		"/Applications/MAMP/htdocs/blogdesign/_layouts/default.html",
+		"/Applications/MAMP/htdocs/blogdesign/_posts/2012-08-05-bloggpremiar-med-jekyll.md",
+		"/Applications/MAMP/htdocs/blogdesign/scss/main.scss",
+		"/Applications/MAMP/htdocs/blogdesign/_layouts/post.html",
+		"/Applications/MAMP/htdocs/blogdesign/img",
+		"/Applications/MAMP/htdocs/blogdesign/_config.yml",
+		"/Applications/MAMP/htdocs/blogdesign/_posts/2012-08-04-min-utvecklingsmiljo-os-x.md",
+		"/Applications/MAMP/htdocs/blogdesign/_includes/posts.html",
+		"/Applications/MAMP/htdocs/blogdesign/_posts/2012-08-05-sublime-text.md",
+		"/Applications/MAMP/htdocs/blogdesign/index.md",
+		"/Applications/MAMP/htdocs/blogdesign/config.rb",
+		"/Applications/MAMP/htdocs/blogdesign/js/main.js",
+		"/Applications/MAMP/htdocs/blogdesign/scss/_base.scss",
+		"/Applications/MAMP/htdocs/blogdesign/js/dist/fitvid-min.js",
+		"/Applications/MAMP/htdocs/blogdesign/.gitignore",
+		"/Applications/MAMP/htdocs/blogdesign/_posts/2012-08-04-places-in-time.md",
+		"/Applications/MAMP/htdocs/blogdesign/index.html",
+		"/Applications/MAMP/htdocs/blogdesign/sitemap.xml",
+		"/Applications/MAMP/htdocs/blogdesign/rss.xml",
+		"/Applications/MAMP/htdocs/blogdesign/atom.xml",
+		"/Users/patrik/Downloads/fontello-2b053462/demo.html",
+		"/Users/patrik/Downloads/fontello-2b053462/css/icons.css",
+		"/Applications/MAMP/htdocs/blogdesign/scss/_buttons.scss",
+		"/Applications/MAMP/htdocs/blogdesign/js/main-ck.js",
+		"/Applications/MAMP/htdocs/blogdesign/js/dist/fitvid.js",
+		"/Applications/MAMP/htdocs/blogdesign/scss/_mediaqueries.scss",
+		"/Users/patrik/Downloads/090409/application/controllers/AdmController.php",
+		"/Applications/MAMP/htdocs/patrikwibron.github.com/_layouts/post.html",
+		"/Applications/MAMP/htdocs/patrikwibron.github.com/_posts/2012-01-21-foobar-barbar.md",
+		"/Applications/MAMP/htdocs/patrikwibron.github.com/_includes/posts.html",
+		"/Applications/MAMP/htdocs/patrikwibron.github.com/_layouts/default.html",
+		"/Applications/MAMP/htdocs/patrikwibron.github.com/index.md",
+		"/Applications/MAMP/htdocs/patrikwibron.github.com/_posts/foo-bar.md",
+		"/Applications/MAMP/htdocs/git/index.html",
+		"/Applications/MAMP/htdocs/git/css/main.css",
+		"/Users/patrik/Sites/test/test.coffee",
+		"/Users/patrik/Sites/test/test.js",
+		"/Applications/MAMP/htdocs/git/js/reveal.js",
+		"/Users/patrik/Sites/patrikwibron.github.com/README.md",
+		"/Users/patrik/Sites/patrikwibron.github.com/_layouts/default.html",
+		"/Users/patrik/Sites/patrikwibron.github.com/index.md",
+		"/Users/patrik/Sites/patrikwibron.github.com/_config.yml",
+		"/Users/patrik/Sites/patrikwibron.github.com/.gitignore",
+		"/Users/patrik/Sites/patrikwibron.github.com/_scss/_normalize.scss",
+		"/Users/patrik/Sites/patrikwibron.github.com/config.rb",
+		"/Users/patrik/Sites/patrikwibron.github.com/_scss/style.scss",
+		"/Users/patrik/Sites/patrikwibron.github.com/css/style.css",
+		"/Users/patrik/Library/Application Support/Sublime Text 2/Packages/Theme - Soda/Soda Dark.sublime-theme",
+		"/Users/patrik/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/patrik/Sites/index.html",
+		"/Users/patrik/Sites/foo/readme"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Applications/MAMP/htdocs/blogdesign",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".main",
+			"basecolor",
+			"folders",
+			"nav",
+			"base",
+			"plugin",
+			"font-weig",
+			"h1",
+			".top",
+			"läs mer",
+			"echo",
+			"h1",
+			"<code>",
+			"theme",
+			"state-",
+			"ul {"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"self"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "scss/_typography.scss",
+					"settings":
+					{
+						"buffer_size": 1996,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								536,
+								536
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "scss/_layout.scss",
+					"settings":
+					{
+						"buffer_size": 3712,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								394,
+								394
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 16416,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										4223,
+										4228
+									],
+									[
+										12323,
+										12328
+									],
+									[
+										16324,
+										16329
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1774.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 2491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1381,
+								1381
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 386.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_posts/2012-08-22-bloggpremiar-med-jekyll.md",
+					"settings":
+					{
+						"buffer_size": 843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								598,
+								598
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "scss/_base.scss",
+					"settings":
+					{
+						"buffer_size": 400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								265
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"about",
+				"about.html"
+			],
+			[
+				"subli",
+				"_posts/2012-08-21-sublime-text.md"
+			],
+			[
+				"layout",
+				"scss/_layout.scss"
+			],
+			[
+				"base",
+				"scss/_base.scss"
+			],
+			[
+				"blogg",
+				"_posts/2012-08-22-bloggpremiar-med-jekyll.md"
+			],
+			[
+				"jekyl",
+				"_site/post/bloggpremiar-med-jekyll.html"
+			],
+			[
+				"default",
+				"_layouts/default.html"
+			],
+			[
+				"icons.scss",
+				"scss/_icons.scss"
+			],
+			[
+				"sodada",
+				"/Users/patrik/Library/Application Support/Sublime Text 2/Packages/Theme - Soda/Soda Dark.sublime-theme"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true
+}

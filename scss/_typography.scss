@@ -1,0 +1,124 @@
+body {
+    font-size: $fontSize;
+    line-height: $lineHeight;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, .6);
+}
+
+::selection {
+    background: $headBorder;
+    color: #fff;
+    text-shadow: none;
+}
+
+
+h1, h2, h3, h4, h5, p, li {
+    font-family: "adelle", sans-serif;
+    font-weight: 100;
+}
+
+h1, h2, h3, h4, h5 {
+    text-rendering: optimizeLegibility;
+    line-height: 1;
+}
+
+p {
+    line-height: $lineHeight + 0.2;
+    font-family: 'PT Sans', sans-serif;
+}
+
+a {
+    color: $linkColor;
+    text-decoration: none;
+    border-bottom: 1px solid $headBorder;
+    font-weight: 600;
+    @include transition(background .15s ease-out, color .2s ease-out);
+    &:hover {
+        background: $headBorder;
+        color: #fff;
+        text-shadow: none;
+    }
+}
+
+h1 {
+    font-size: 3.6em;
+    letter-spacing: -1px;
+    margin: 0 0 .4em 0;
+    a {
+        font-weight: inherit;
+        border: none;
+        &:hover {
+            background: none;
+            color: $headBorder;
+        }
+    }
+}
+
+
+h2 {
+    font-size: 2em;
+    margin: 0 0 .5em 0;
+    line-height: 1.4;
+    a {
+        font-weight: inherit;
+    }
+}
+
+h3 {
+    a {
+        font-weight: inherit;
+    }
+}
+
+.post {
+    h1, h2 {
+        word-wrap: normal;
+    }
+    h1 {
+        font-size: 2.5em;
+        @media screen and (max-width: 480px) {
+            font-size: 2.1em;
+        }
+    }
+    h2 {
+        
+        @media screen and (max-width: 480px) {
+            font-size: 1.6em;
+        }
+    }
+}
+
+h3 {
+    font-size: 1.4em;
+    margin: .8em 0 .4em 0;
+}
+
+.top {
+    h1 {
+        color: lighten($baseColor, 10%);
+        margin-bottom: .2em;
+    }
+    h2 {
+        color: lighten($baseColor, 30%);
+    }
+    h1, h2 {
+        @include transition(font-size .4s ease);
+    }
+    @media screen and (max-width: 640px) {
+        h1 {
+            font-size: 2.6em;
+        }
+        h2 {
+            font-size: 1.3em;
+        }
+    }
+    
+}
+
+.sitefooter {
+    a:hover {
+        color: #fff;
+    }
+    li a {
+        border-bottom: none;
+    }
+}

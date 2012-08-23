@@ -1,0 +1,10 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Applications/MAMP/htdocs/blogdesign",
+			"folder_exclude_patterns": ["css"],
+			"file_exclude_patterns": ["blogdesign.sublime-workspace"]
+		}
+	]
+}

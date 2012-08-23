@@ -1,0 +1,13 @@
+<section class="blogposts">
+    {% for post in site.posts  %}
+        <article class="post">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <time datetime="{{ post.date }}">{{ post.date | date:'%d %b' | downcase }}</time>
+
+            <p>{{ post.content | strip_html | truncatewords: 58 }}</p>
+            <footer>
+                <p><a href="{{ post.url }}">Läs mer &raquo;</a></p>
+            </footer>
+        </article>
+    {% endfor %}
+</section>

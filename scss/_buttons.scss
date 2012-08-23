@@ -1,0 +1,15 @@
+.button {
+	background: $linkBorder;
+	text-decoration: none;
+	padding: 4px 10px;
+	color: #333;
+	color: rgba(0, 0, 0, .4);
+	text-shadow: none;
+	@include border-radius(4px);
+	@include box-shadow(0 4px 0 darken($linkBorder, 10%));
+	&:active {
+		position: relative;
+		top: 1px;
+		@include box-shadow(0 4px 0 transparent);
+	}
+}

@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<article class="post">
+    <h1>
+    {% if page.header %}{{ page.header }}{% else %}{{ page.title }}{% endif %}
+    </h1>
+    <time datetime="{{ page.date }}">{{ page.date | date:'%d %b' | downcase }}</time>
+    {% if page.image %} <img src="{{ page.image }}"> {% endif %}
+    {{ content }}
+    <footer>
+        <p>Gillar du bloggposten? Några åsikter? Pinga mig gärna på <a href="http://twitter.com/wibron">twitter</a>.</p>
+    </footer>
+</article>

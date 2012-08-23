@@ -1,0 +1,26 @@
+$experimental-support-for-opera: false;
+$experimental-support-for-khtml: false;
+
+@import "compass/css3";
+@import "compass/utilities";
+
+$lineHeight: 1.5;
+$fontSize: 16px;
+
+$background: #f5f5f5;
+$baseColor: #333;
+
+$bgBorder: #323646;
+$headBorder: darken(#59c7d7, 10%);
+$red: #d80011;
+
+$linkColor: $baseColor;
+$linkBorder: #ca003c;
+
+.leftaligned {
+    float: left;
+}
+
+.rightaligned {
+    float: right;
+}
