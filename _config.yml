@@ -2,7 +2,7 @@ url: http://patrikwibron.se
 title: Patrik Wibron
 description: Bloggen för frontendutvecklaren Patrik Wibron. Fokus på användarvänlighet och prestanda.
 
-permalink: /post/:title.html
+permalink: /post/:title
 
 future: false
 auto: true
