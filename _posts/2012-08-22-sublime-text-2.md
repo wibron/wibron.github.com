@@ -46,3 +46,5 @@ Visar aktuella teckenkodningen i statusraden samt möjliggör en konvertering me
 NetTuts gjorde en summering med lite tips&trix i Sublime som kan också kan vara värda att spana in: [http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/](http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/)
 
 Du kommer med största sannolikhet hitta andra features som du gillar! 
+
+Sublime Text 2 laddas ner helt gratis på [http://www.sublimetext.com/2](http://www.sublimetext.com/2)
