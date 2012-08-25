@@ -17,7 +17,8 @@
 
         <link rel="stylesheet" href="/css/main.css">
         <link rel="icon" type="image/x-icon" href="/favicon.gif">
-        
+        <link rel="canonical" href="{{ site.url }}{% if page.url %}{{ page.url | replace:'index.html','' }}{% endif %}">
+
         <link rel="alternate" type="application/rss+xml" href="/rss.xml" title="Bloggposter">
 
         <link href='http://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
