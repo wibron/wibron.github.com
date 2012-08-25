@@ -1,5 +1,6 @@
 ---
 layout: post
+striphtml: true
 title: Bloggpremiär med Jekyll och Github Pages
 ---
 

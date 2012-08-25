@@ -1,5 +1,6 @@
 ---
 layout: post
+striphtml: true
 title: Kom igång med Sublime Text 2
 description: Tips på plugins och funktioner i editorn Sublime Text 2
 image: /img/sublime.png
