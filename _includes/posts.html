@@ -10,9 +10,11 @@
                 {{ post.content }}
             {% endif %}
             </p>
+            {% if !post.striphtml %}
             <footer>
                 <p><a href="{{ post.url }}">Läs mer &raquo;</a></p>
             </footer>
+            {% endif %}
         </article>
     {% endfor %}
 </section>
