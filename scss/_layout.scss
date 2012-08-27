@@ -120,6 +120,21 @@ hr {
     }
     footer {
         margin-top: 1.5em;
+        &.discussion {
+            border-top: 1px solid lighten($baseColor, 60%);
+            margin-top: 2em;
+            padding-top: 2em;
+            position: relative;
+            &:before {
+                content: '';
+                width: 100%;
+                display: block;
+                background: #FFF;
+                height: 1px;
+                position: absolute;
+                top: 0;
+            }
+        }
     }
     .rightaligned {
         margin: 0 0 .5em .8em;

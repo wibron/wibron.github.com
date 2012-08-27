@@ -9,7 +9,16 @@ layout: default
     <time datetime="{{ page.date }}">{{ page.date | date:'%d %b' | downcase }}</time>
     {% if page.image %} <img src="{{ page.image }}"> {% endif %}
     {{ content }}
-    <footer>
-        <p>Gillar du bloggposten? Några åsikter? Pinga mig gärna på <a href="http://twitter.com/wibron">twitter</a>.</p>
+    <footer class="discussion">
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            var disqus_shortname = 'patrikwibron';
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Vänligen slå på Javascript för att ta del av kommentarerna från <a href="http://disqus.com/?ref_noscript">Disqus.</a></noscript>
     </footer>
 </article>
