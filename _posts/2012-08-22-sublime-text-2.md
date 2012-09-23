@@ -17,11 +17,14 @@ Pakethanterare med bundles, plugins, buildsystem m.m.
 ### Soda ###
 Soda gör Sublime's UI lite behagligare. Finns i mörkt/ljust och olika utseenden på tabbarna.
 
-### ZenCoding ###
+### <del>ZenCoding</del> Emmet ###
 Förenklar prototypande av HTML. Generera t.ex en lista genom att skriva
+
 ```
 ul>li[class=list-$]*5>a[href=http://url.com]{Linktext}
 ```
+
+I.o.m Emmet förenklas även skrivandet av CSS. Läs mer på [Github](https://github.com/sergeche/emmet-sublime). 
 
 ### SublimeCodeIntel ###
 En portning av Komodo's autocomplete till Sublime där du får autocomplete för de flesta språk. 
@@ -34,6 +37,9 @@ Lägger till fler trevliga val i contextmenyn.
 
 ### EncodingHelper ###
 Visar aktuella teckenkodningen i statusraden samt möjliggör en konvertering mellan en rad olika uppsättningar.
+
+### JSHint ###
+Eventuella fel i JavaScriptkoden visas i consolen vid build (kompletteras gärna med paketet SublimeOnSaveBuild som kör en build på filen när den sparas).
 
 ## Andra användbara features ##
 
