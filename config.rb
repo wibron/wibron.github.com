@@ -4,6 +4,6 @@ sass_dir = "scss"
 images_dir = "img"
 javascripts_dir = "js"
 
-output_style = :expanded
+output_style = :compressed
 
-sass_options = { :debug_info => true }
+sass_options = { :debug_info => false }
