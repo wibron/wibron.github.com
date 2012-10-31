@@ -22,3 +22,11 @@ layout: default
         <noscript>Vänligen slå på Javascript för att ta del av kommentarerna från <a href="http://disqus.com/?ref_noscript">Disqus.</a></noscript>
     </footer>
 </article>
+
+<h3>Mer läsning: </h3>
+
+<ul>
+{% for post in site.posts  %}
+<li>{{ post.date | date:'%d %b' }} &mdash; <a href="{{post.url}}">{{post.title}}</a></li>
+{% endfor %}
+</ul>
