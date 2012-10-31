@@ -1,5 +1,9 @@
-@import "normalize";
-@import "base";
+$experimental-support-for-opera: false;
+$experimental-support-for-khtml: false;
+
+@import "compass/css3";
+@import "compass/utilities";
+
+@import "colors";
 @import "typography";
 @import "layout";
-@import "icons";
