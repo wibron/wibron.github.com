@@ -5,7 +5,7 @@
 .main {
     width: 90%;
     max-width: 35em;
-    margin: 0 auto;
+    margin: 2.5em auto 0 auto;
     @media screen and (max-width: 35em) {
         width: auto;
         padding: 0 10px;
@@ -64,10 +64,6 @@
             width: auto;
         }
     }
-}
-
-.blogposts {
-    margin-top: 2.5em;
 }
 
 .post {
