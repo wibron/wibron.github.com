@@ -17,7 +17,7 @@
         {% if page.image %}<meta name="og:image" content="{{ site.url }}{{ page.image }}">{% endif %}
 
         <link rel="stylesheet" href="/css/main.css">
-        <link rel="icon" type="image/x-icon" href="/favicon.gif">
+        <link rel="icon" type="image/x-icon" href="/favicon.png">
 
         <link rel="alternate" type="application/rss+xml" href="/rss.xml" title="Bloggposter">
 
@@ -32,6 +32,7 @@
 
         <hgroup>
             <h1><a href="/">Patrik Wibron</a></h1>
+            <h2>Frontendutvecklare</h2>
         </hgroup>
 
         <nav>
@@ -46,6 +47,14 @@
         {{ content }}
     </div>
 
+    <footer class="sitefooter">
+        <div>
+            <p>
+                Patrik, frontendutvecklare i Stockholm. Stort intresse av webben och <a href="http://flickr.com/wibron">fotografering</a>.
+            </p>
+        </div>
+    </footer>
+
     <script>
         var _gaq=[['_setAccount','UA-9054258-1'],['_trackPageview']];
         (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
@@ -53,9 +62,6 @@
         s.parentNode.insertBefore(g,s)}(document,'script'));
     </script>
     <script src="/js/highlight.pack.js"></script>
-    <script>
-    hljs.initHighlightingOnLoad();
-    </script>
-
+    <script>hljs.initHighlightingOnLoad();</script>
     </body>
 </html>

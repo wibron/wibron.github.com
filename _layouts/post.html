@@ -25,7 +25,7 @@ layout: default
 
 <h3>Mer läsning: </h3>
 
-<ul>
+<ul class="related">
 {% for post in site.posts  %}
 <li>{{ post.date | date:'%d %b' }} &mdash; <a href="{{post.url}}">{{post.title}}</a></li>
 {% endfor %}
