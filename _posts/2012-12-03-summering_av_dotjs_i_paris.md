@@ -15,7 +15,7 @@ Till att börja med annonserades inget riktigt schema till konferensen, utan man
 
 Detta gjorde att jag och över 600 nyfikna deltagare drog sig till den vackra teatern Théâtre des Variétés i centrala Paris för att lyssna på lite kodsnack och saker därtill.
 
-Konferensen anordnades som sagt i Paris, så det var riktigt kul att uppleva en ny stad samt träffa på folk som man kanske inte annars skulle träffa. Vi träffade även på ett par svenskar där, riktigt kul! 
+Det var riktigt kul att uppleva en ny stad samt träffa på folk som man kanske inte annars skulle träffa. Vi stötte även på ett par svenskar där, riktigt kul! 
 
 ## Keynotes
 
@@ -29,13 +29,13 @@ Jag blev riktigt glad när Addy även visade att det kommer komma stöd för att
 
 Under varje presentation hade alla besökare möjlighet att ställa frågor via Google Moderator som sedan lästes upp av moderatorn och besvarades av talaren efter presentationen var klar. Det fungerade riktigt bra måste jag säga.
 
-Avslutningsvis skulle [Jacob Thornton](@fat) berätta om Open Source och dess historia, men han fick reda på att sin keynote endast skulle vara 20 min lång några dagar innan konferensen så hans presentation fick helt göras om. Jacob gick helt emot strömmen och gjorde konstigt nog hela sin presentation som ett långt dokument i Photoshop med karikatyrsketcher på bl.a. Linus Torvalds, Richard Stallman m.fl. Fantastiskt roligt var det, men hans positiva slutsats som lovades blev inte så jätte positiv utan istället en del negativa saker.
+Avslutningsvis skulle [Jacob Thornton](@fat) berätta om Open Source och dess historia, men han fick reda på att keynoten endast skulle vara 20 min lång några dagar innan konferensen så hans presentation fick helt göras om. Jacob gick helt emot strömmen och gjorde konstigt nog hela sin presentation som ett långt dokument i Photoshop med karikatyrsketcher på Linus Torvalds, Richard Stallman med flera. Fantastiskt roligt var det, men hans positiva slutsats som lovades blev inte så jätte positiv utan istället en del negativa saker.
 
 ## Workshops
 
 Under lördagen anordnades workshops för att man skulle få labba lite med olika typer av tekniker istället för att sitta och lyssna en hel dag, så det kändes jättelockande att vara med på. 
 
-Flera företag såsom Google, Microsoft, Enyo m.m. höll i workshops om diverese tekniker, men vi valde att gå på Google's som även majoriteten av alla andra deltagare pga bra handledare och intressanta ämnen.
+Flera företag såsom Google, Microsoft, Enyo m.m. höll i workshops om diverese tekniker, men vi valde att gå på Google's som även majoriteten av alla andra deltagare på grund av deras bra handledare (Martin Görner och Ricardo Cabello) och intressanta ämnen.
 
 Väl inne på workshopen kunde man välja olika spår, i vårt fall gick det att välja mellan att göra en app i Dart alt. labba med CSS3 3D-animationer. Jag som älskar grafik kände jag att det var rätt enkelt val med CSS3-spåret.
 
