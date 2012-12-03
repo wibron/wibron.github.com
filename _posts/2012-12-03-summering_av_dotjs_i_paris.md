@@ -45,7 +45,7 @@ CSS3-sektionen hölls av [Martin Görner](http://twitter.com/martingorner) och g
 
 Efter en massiv pizzalunch startade spår #2 igång med en introduktion/labb i [AngularJS](https://github.com/angular/angular.js) med skaparna själva. De gick igenom allt rätt noggrant och såg till att alla fick hjälp vid behov, otroligt bra för nybörjare.
 
-Labben i AngularJS gick ut på att skapa en web-app som listade restauranger beroende på ett par parametrar. Det skulle även gå att filtrera på pris/rating och lite annat smått och gott. Problemet kände jag var att instruktörerna skenade iväg i en rätt hög nivå och ett högt tempo som gjorde att en del inte riktigt hängde med i svängarna och hängde med att snappa upp allt som sades samtidigt som man skulle skriva kod. Allt fanns dock nedskrivet i dokumentationen och i labbunderlaget för att man skulle kunna gå igenom det senare, men det hade varit bra om tempot var lite långsammare och själva labben hade kunnat vara lite mer avskalad och simplifierad. 
+Labben i AngularJS gick ut på att skapa en web-app som listade restauranger beroende på ett par parametrar. Det skulle även gå att filtrera på pris/rating och lite annat smått och gott. Problemet jag kände var att instruktörerna skenade iväg i en rätt hög nivå och ett högt tempo som gjorde att en del inte riktigt hängde med i svängarna och hängde med att snappa upp allt som sades samtidigt som man skulle skriva kod. Allt fanns dock nedskrivet i dokumentationen och i labbunderlaget för att man skulle kunna gå igenom det senare, men det hade varit bra om tempot var lite långsammare och själva labben hade kunnat vara lite mer avskalad och simplifierad. 
 
 ## Sammanfattning
 
