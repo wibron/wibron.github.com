@@ -6,13 +6,13 @@ description: Tips på plugins och funktioner i editorn Sublime Text 2
 image: /img/sublime.png
 ---
 
-Har du inte provat på texteditorn Sublime Text 2 ännu så ska du göra det med en gång. En fulländad cross-platform-editor med alla möjliga features såsom Textmate bundles/teman, multiselection, inbyggd pakethanterare m.m.
+Har du inte provat på texteditorn Sublime Text 2 ännu så ska du göra det med en gång. En fulländad cross-platform-editor med alla möjliga features såsom stöd för Textmate bundles/teman, multipla markeringar, inbyggd pakethanterare med mera.
 
 ## Plugins ##
 Nedan finner du plugins jag tycker är användbara i min frontendutveckling (alla plugins hittar du i Package Control): 
 
 ### [Package control](http://wbond.net/sublime_packages/package_control) ###
-Den i princip obligatoriska pakethanteraren till Sublime med alla möjliga bundles, plugins, buildsystem m.m.
+Den i princip obligatoriska pakethanteraren till Sublime med alla möjliga bundles, plugins och buildsystem.
 
 ### Soda ###
 Soda gör Sublime's UI lite behagligare. Finns i mörkt/ljust och olika utseenden på tabbarna.
@@ -40,6 +40,9 @@ Visar aktuella teckenkodningen i statusraden samt möjliggör en konvertering me
 
 ### JSHint ###
 Eventuella fel i JavaScriptkoden visas i consolen vid build (kompletteras gärna med paketet SublimeOnSaveBuild som kör en build på filen när den sparas).
+
+### BracketHighlighter ###
+Markerar upp brackets i din kod tydligare så att du lättare kan få kontroll över nästlad kod. 
 
 ## Andra användbara features ##
 
