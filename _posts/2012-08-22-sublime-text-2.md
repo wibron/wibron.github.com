@@ -12,7 +12,7 @@ Har du inte provat på texteditorn Sublime Text 2 ännu så ska du göra det med
 Nedan finner du plugins jag tycker är användbara i min frontendutveckling (alla plugins hittar du i Package Control): 
 
 ### [Package control](http://wbond.net/sublime_packages/package_control) ###
-Pakethanterare med bundles, plugins, buildsystem m.m.
+Den i princip obligatoriska pakethanteraren till Sublime med alla möjliga bundles, plugins, buildsystem m.m.
 
 ### Soda ###
 Soda gör Sublime's UI lite behagligare. Finns i mörkt/ljust och olika utseenden på tabbarna.
