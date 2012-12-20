@@ -17,6 +17,6 @@ Ingen vill sitta och vänta länge för att komma åt innehåll på en webbplats
 * Optimera bilder för webben genom t.ex [ImageOptim](http://imageoptim.com/) som helt lossless tar bort onödig metadata från bilder. Du kan vinna rätt mycket på detta och det tar ingen tid alls.
 * Servera statiska HTML-filer om möjligt för att minimera lasten på databasen.
 
-Om man har Wordpress som plattform på sin webbplats går dessa tips att lösa rätt enkelt med plugins som t.ex. [W3 Total Cache](http://wordpress.org/extend/plugins/w3-total-cache/) och [WP Super Cache](http://wordpress.org/extend/plugins/wp-super-cache/). 
+Om man har Wordpress som plattform på sin webbplats går dessa tips att lösa rätt enkelt med plugins som t.ex. [W3 Total Cache](http://wordpress.org/extend/plugins/w3-total-cache/) och [WP Super Cache](http://wordpress.org/extend/plugins/wp-super-cache/). Tilläget [Google Page Speed](https://developers.google.com/speed/pagespeed/) till Chrome och Firefox kan även analysera din webbplats och ge dig tips hur du kan förbättra laddningstiden. 
 
 Har du några fler tips om hur man snabbar upp sin webbplats så får du gärna slänga in en kommentar nedan. 
