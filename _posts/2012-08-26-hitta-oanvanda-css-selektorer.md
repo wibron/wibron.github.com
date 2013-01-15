@@ -2,7 +2,7 @@
 layout: post
 striphtml: true
 title: Hitta oanvända CSS-selektorer med ucss
-description: Med node.js-modulen ucss hittar du oanvända CSS-selektorer i ditt projekt.
+description: Hitta oanvänd CSS-kod i ditt projekt med node.js-modulen ucss
 ---
 
 Jag jobbade på ett rätt stort projekt förut och behövde kika igenom alla css-selektorer för att se hur pass många som verkligen användes, då hittade jag ucss av Opera Software på Github. En enkel node.js-modul som tillåter dig att mappa upp ett par URL:er och en css-fil att göra testet mot. Du får sedan en fullständig rapport på vilka selektorer som ej används.
