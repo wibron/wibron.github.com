@@ -54,7 +54,7 @@ När du skriver Javascriptkod kan du få felaktiga bitar att bli markerade och g
 * Kom åt metoder och properties i klasser på den aktuella filen med &#x2318; + R
 * Med multiple cursors kan du redigera text på flera ställen samditigt (&#x2318; + klick)
 * Sublime har stöd för Textmate-teman out of the box
-* Vintage mode - använd dig av [vim](http://www.vim.org/)'s kommandoläge inuti Sublime (är själv ingen vim-fantast, men det finns säkert någon som gillar detta)
+* Vintage mode - använd dig av [vim](http://www.vim.org/)'s olika lägen inuti Sublime (är själv ingen vim-fantast, men det finns säkert någon som gillar detta)
 * Ställ markören på ett ord och tryck &#x2318; + D för att markera nästa förekomst av ordet och multipla markörer skapas åt dig
 
 NetTuts gjorde en summering med lite tips&trix i Sublime som kan också kan vara värda att spana in: [http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/](http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/)
