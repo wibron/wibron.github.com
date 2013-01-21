@@ -17,7 +17,7 @@ Den i princip obligatoriska pakethanteraren till Sublime med alla möjliga bundl
 ### Soda ###
 Soda gör Sublime's UI lite behagligare. Finns i mörkt/ljust och olika utseenden på tabbarna.
 
-### <del>ZenCoding</del> Emmet ###
+### Emmet (f.d. ZenCoding) ###
 Förenklar prototypande av HTML. Generera t.ex en lista genom att skriva
 
 ```
@@ -43,6 +43,9 @@ Eventuella fel i JavaScriptkoden visas i consolen vid build (kompletteras gärna
 
 ### BracketHighlighter ###
 Markerar upp brackets i din kod tydligare så att du lättare kan få kontroll över nästlad kod.
+
+### SublimeLinter ###
+När du skriver Javascriptkod kan du få felaktiga bitar att bli markerade och ge dig tips på korrigeringar, t.ex avsaknad av semikolon, brackets m.m.
 
 ## Andra användbara features ##
 
