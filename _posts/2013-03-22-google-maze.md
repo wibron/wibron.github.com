@@ -2,7 +2,7 @@
 layout: post
 title: Google Maze
 striphtml: true
-description: "Google's fräcka experiment Maze imponerar med HTML5-tekniker"
+description: Googles fräcka experiment Maze imponerar med HTML5-tekniker
 image: /img/maze.png
 ---
 
