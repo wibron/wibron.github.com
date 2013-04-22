@@ -59,7 +59,7 @@ När du skriver Javascriptkod kan du få felaktiga bitar att bli markerade och g
 
 NetTuts gjorde en summering med lite tips&trix i Sublime som kan också kan vara värda att spana in: [http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/](http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/)
 
-Min konfiguration för Sublime Text hittar du på [Github](https://github.com/PatrikWibron/dotfiles/tree/master/Sublime%20Text%202) där jag har min användarkonfiguration, keymap, färgtema med mera.
+Min konfiguration för Sublime Text hittar du på [GitHub](https://github.com/wibron/dotfiles/tree/master/Sublime%20Text%202) där jag har min användarkonfiguration, keymap, färgtema med mera.
 
 Du kommer med största sannolikhet hitta andra features som du gillar! 
 
