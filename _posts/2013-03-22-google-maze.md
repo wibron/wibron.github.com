@@ -3,6 +3,7 @@ layout: post
 title: Google Maze
 striphtml: true
 description: Googles fräcka experiment Maze imponerar med HTML5-tekniker
+image: /img/maze.png
 ---
 
 Jag snubblade över en länk nu på morgonkvisten om Google Chrome's nya experiment [Maze](http://chrome.com/maze/). Idén bakom är att användaren fyller i en URL/sökord och Google transformerar om den valda webbplatsen till en magnifik 3D-värld. 
