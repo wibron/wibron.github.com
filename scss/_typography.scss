@@ -4,26 +4,28 @@
 body {
 	margin: 0;
 	padding: 0;
-	font: normal 18px/1.45 Lato, sans-serif;
+	font: 300 18px/1.45 'Open Sans', sans-serif;
 	color: #414141;
 }
 
 .top {
-	font-family: Lato, sans-serif;
+	h1 {
+		color: #fff;
+	}
 }
 
 a {
-	color: darken($orange, 10%);
+	color: $red;
 	text-decoration: none;
 	border-bottom: 1px solid rgba(black, .1);
 	@include transition(.1s ease border-color);
 	&:hover {
-		border-color: $orange;
+		border-color: $red;
 	}
 }
 
 h1, h2, h3 {
-	font-weight: normal;
+	font-weight: 300;
 }
 
 h1 {
@@ -32,4 +34,11 @@ h1 {
 
 h2 {
 	font-size: 24px;
+}
+
+p {
+	line-height: 1.6;
+	@media screen and (max-width: 35em) {
+		font-size: .85em;
+	}
 }

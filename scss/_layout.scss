@@ -4,21 +4,68 @@
 
 .main {
     width: 90%;
-    max-width: 35em;
+    max-width: 50em;
     margin: 2.5em auto 0 auto;
     @media screen and (max-width: 35em) {
         width: auto;
         padding: 0 10px;
+        img {
+            display: block;
+            float: none;
+        }
+    }
+}
+
+.top-overlay {
+    background: rgba($red, .8);
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+@-webkit-keyframes kaboom {
+    0% {
+        top: -450px;
+        opacity: 0;
+    }
+    70% {
+        opacity: .3;
+    }
+    100% {
+        opacity: 1;
+        top: 0;
     }
 }
 
 .top {
+    position: relative;
     overflow: hidden;
     text-align: center;
+    background: url("/img/bg.jpg") no-repeat;
+    background-size: cover;
+    height: 450px;
+    height: 50vh;
+    @include transition(height .2s ease);
+    @media screen and (max-width: 30em) {
+        height: 200px;
+        height: 30vh;
+    }
+    hgroup {
+        border-bottom: 1px solid rgba(#fff, .5);
+    }
     hgroup, nav {
         margin: 0 auto;
         width: 90%;
         max-width: 35em;
+        position: relative;
+        z-index: 1;
+        top: -450px;
+        -webkit-animation-delay: .5s;
+        -webkit-animation: kaboom .3s;
+        -webkit-animation-fill-mode: forwards;
     }
     ul {
         list-style: none;
@@ -32,21 +79,22 @@
         }
     }
     a {
+        color: #fff;
+        border-color: #fff;
         &:hover {
-            border-color: darken($orange, 20%);
+            border-color: darken(#fff, 20%);
         }
     }
     h1 {
         font-size: 55px;
-        letter-spacing: -1px;
         margin-bottom: .3em;
         font-weight: bold;
         a {
             border-bottom: 0;
-            color: #333;
+            color: #fff;
         }
     }
-    @media screen and (max-width: 35em) {
+    @media screen and (max-width: 30em) {
         h1 {
             font-size: 35px;
         }
@@ -55,14 +103,9 @@
         }
     }
     h2 {
-        color: #aaa;
+        color: #fff;
         margin-top: 0;
         text-shadow: 0 1px 0 rgba(white, .15);
-    }
-    @media screen and (max-width: 35em) {
-        hgroup, nav {
-            width: auto;
-        }
     }
 }
 
@@ -86,4 +129,17 @@
 .rightaligned {
     float: right;
     margin: 0 0 .5em .5em;
+}
+
+.related {
+    list-style: none;
+    padding-left: 0;
+    li {
+        padding: .25em 0;
+    }
+}
+
+.sitefooter {
+    padding: 2em 0;
+    text-align: center;
 }
