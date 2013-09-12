@@ -122,8 +122,14 @@
     }
 }
 
-.profile_img {
-    @include border-radius(50% 50%);
+.post .profile_img {
+    border-radius: 50% 50%;
+    max-height: 250px;
+    @media screen and (max-width: 35em) {
+        float: none;
+        margin: 0 auto;
+        display: block;
+    }
 }
 
 .rightaligned {
