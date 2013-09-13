@@ -46,12 +46,10 @@
     text-align: center;
     background: url("/img/bg.jpg") no-repeat;
     background-size: cover;
-    height: 450px;
-    height: 50vh;
+    height: 20em;
     @include transition(height .2s ease);
     @media screen and (max-width: 30em) {
-        height: 200px;
-        height: 30vh;
+        height: 12em;
     }
     hgroup {
         border-bottom: 1px solid rgba(#fff, .5);
