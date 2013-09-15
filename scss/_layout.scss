@@ -1,3 +1,9 @@
+hr {
+    border: 0;
+    border-bottom: 1px solid #aaa;
+    margin-bottom: 1.2em;
+}
+
 .post img {
     max-width: 100%;
 }
@@ -86,7 +92,7 @@
     position: relative;
     overflow: hidden;
     text-align: center;
-    background: url("/img/bg.jpg") no-repeat;
+    background: url("/img/bg.jpg") no-repeat center;
     background-size: cover;
     height: 20em;
     @include transition(height .2s ease);

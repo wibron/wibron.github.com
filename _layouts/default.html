@@ -30,7 +30,7 @@
     </head>
     <body{% if page.url != '/index.html' %} class='page-post'{% endif %}>
 
-    <header role="banner" class="top">
+    <header role="banner" class="top" {% if page.topimg %}style="background-image: url('/img/{{page.topimg}}')"{% endif %}>
 
         <hgroup>
             <h1><a href="/">Patrik Wibron</a></h1>
