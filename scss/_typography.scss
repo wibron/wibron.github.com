@@ -53,3 +53,11 @@ p {
 		font-size: .85em;
 	}
 }
+
+.gist-data {
+	span {
+		@media screen and (max-width: 35em) {
+			font-size: .85em;
+		}
+	}
+}
