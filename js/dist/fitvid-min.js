@@ -11,7 +11,7 @@
 
 (function( $ ){
 
-  $.fn.fitVids = function( options ) {
+  $.fn.fittVids = function( options ) {
     var settings = {
       customSelector: null
     }
@@ -65,7 +65,7 @@
         var height = this.tagName.toLowerCase() == 'object' ? $this.attr('height') : $this.height(),
             aspectRatio = height / $this.width();
 		if(!$this.attr('id')){
-			var videoID = 'fitvid' + Math.floor(Math.random()*999999);
+			var videoID = 'fittvid' + Math.floor(Math.random()*999999);
 			$this.attr('id', videoID);
 		}
         $this.wrap('<div class="fluid-width-video-wrapper"></div>').parent('.fluid-width-video-wrapper').css('padding-top', (aspectRatio * 100)+"%");
